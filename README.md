@@ -1,6 +1,8 @@
 # OctoLapse-GoPro
 Experimental ! How to use a GoPro with OctoLapse. Tested with H3+BE only.
 
+See : https://github.com/FormerLurker/Octolapse/issues/309
+
 English :
 
 https://youtu.be/TML8L3RmN60
